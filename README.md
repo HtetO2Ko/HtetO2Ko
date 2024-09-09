@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>Hi, I'm Htet Oo Ko 👋 </h1>
 
-<!--
-**HtetO2Ko/HtetO2Ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently working at TASTYSOFT as a Full Stack Developer
 
-Here are some ideas to get you started:
+<h3>Things I code with</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img alt="React" src="./Images/react.png" />
+  <img alt="Javascript" src="./Images/javascript.png" />
+  <img alt="Angular" src="./Images/angular.png" />
+  <img alt="Flutter" src="./Images/flutter.png" />
+  <img alt="Python" src="./Images/python.png" />
+</p>
