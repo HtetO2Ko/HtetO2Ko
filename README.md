@@ -1,6 +1,6 @@
 <h1>Hi, I'm Htet Oo Ko 👋 </h1>
 
-- I’m currently working at TASTYSOFT as a Full Stack Developer
+- I’m currently working at TASTYSOFT as a Frontend Developer
 
 <h3>Things I code with</h3>
 
