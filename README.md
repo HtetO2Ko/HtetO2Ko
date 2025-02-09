@@ -5,8 +5,7 @@ I’m passionate about building intuitive, high-performance applications with a 
 ## 📞 Contact Information
 
 - **Email:** hteto2ko.dev@gmail.com
-- **LinkedIn:** [Htet Oo Ko]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/htet-oo-ko-607ab4230/))
-
+- **LinkedIn:** [Htet Oo Ko](https://www.linkedin.com/in/htet-oo-ko-607ab4230?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjV4EfHrgQ8ybMiNt%2BSwYSw%3D%3D)
 
 ## 🛠️ Technologies & Skills
 
@@ -34,20 +33,6 @@ I’m passionate about building intuitive, high-performance applications with a 
 ### **DevOps & Tools**
 - **CI/CD Pipelines:** Automating testing and deployment workflows.
 - **Cloud Platforms:** Familiar with deploying applications to cloud services.
-
-## 💼 Key Projects
-
-### 1. **Property Management System (PMS)**
-- **Tech Stack:** Angular, Flask, Python, MySQL
-- **Description:** Developed a full-featured property management system to manage user roles, billing, reporting, and system configurations. Integrated secure authentication, role-based access control, and automated reports.
-
-### 2. **SD Lite (Mobile App)**
-- **Tech Stack:** Flutter
-- **Description:** Contributed to the development of an intuitive mobile application for task management, improving user experience and adding new features like real-time synchronization and notifications.
-
-### 3. **c365 (Mobile App)**
-- **Tech Stack:** Flutter
-- **Description:** Focused on building a high-performance mobile app with Flutter, optimizing UI performance and enhancing accessibility features.
 
 ## 📚 Learning & Growth
 
