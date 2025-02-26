@@ -9,15 +9,13 @@ Full Stack Developer with 4 years of experience using Flutter, Node.js and Angul
 
 ## 🛠️ Technologies & Skills
 
-<p align="center">
-  <img src="images/flutter.png" width="150" height="150"/>
-  <img src="images/nodejs.png" width="150" height="150"/>
-  <img src="images/angular.png" width="150" height="150"/>
-  <img src="images/dart.png" width="150" height="150"/>
-  <img src="images/javascript.png" width="150" height="150"/>
-  <img src="images/typescript.png" width="150" height="150"/>
-  <img src="images/python.png" width="150" height="150"/>
-</p>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Version Control & Deployment**
 
