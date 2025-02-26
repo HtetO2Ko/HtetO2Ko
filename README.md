@@ -9,8 +9,18 @@ Full Stack Developer with 4 years of experience using Flutter, Node.js and Angul
 
 ## 🛠️ Technologies & Skills
 
+<p align="center">
+  <img src="images/flutter.png" width="150" height="150"/>
+  <img src="images/nodejs.png" width="150" height="150"/>
+  <img src="images/angular.png" width="150" height="150"/>
+  <img src="images/dart.png" width="150" height="150"/>
+  <img src="images/javascript.png" width="150" height="150"/>
+  <img src="images/typescript.png" width="150" height="150"/>
+  <img src="images/python.png" width="150" height="150"/>
+</p>
 
 ### **Version Control & Deployment**
+
 - **Git & GitHub:** Version control, branching, and collaboration.
 
 ## 📚 Learning & Growth
