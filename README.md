@@ -1,6 +1,6 @@
 # 👋 Hi, I'm a Full Stack Developer!
 
-I’m passionate about building intuitive, high-performance applications with a strong focus on scalability, user experience, and clean, maintainable code. With expertise in mobile and web development, I specialize in Flutter, Angular, and backend technologies such as Python and Flask.
+Full Stack Developer with 4 years of experience using Flutter, Node.js and Angular. Experienced in developing and deploying mobile and web applications, including publishing to Play Store and App Store. Proficient in RESTful APIs, My SQL, and PostgresSQL. Currently exploring React.js.
 
 ## 📞 Contact Information
 
@@ -9,30 +9,9 @@ I’m passionate about building intuitive, high-performance applications with a 
 
 ## 🛠️ Technologies & Skills
 
-### **Frontend Development**
-- **Frameworks & Libraries:**
-  - **Angular:** Building dynamic, single-page applications (SPAs).
-  - **Flutter:** Developing high-performance mobile apps with Flutter for iOS & Android.
-  - **HTML/CSS:** Creating responsive, user-friendly web designs.
-  - **JavaScript/TypeScript:** Building interactive web applications and components.
-
-### **Backend Development**
-- **Frameworks & Technologies:**
-  - **Flask (Python):** Lightweight Python framework for building APIs and web applications.
-  - **Node.js:** Backend development using JavaScript for server-side applications.
-  - **RESTful APIs:** Designing and developing RESTful services with secure authentication, data validation, and error handling.
-
-### **Databases**
-- **Relational Databases:**
-  - **MySQL:** Advanced querying, performance optimization, and database design.
-  - **PostgreSQL:** Working with SQL for complex queries and high-performance applications.
 
 ### **Version Control & Deployment**
 - **Git & GitHub:** Version control, branching, and collaboration.
-
-### **DevOps & Tools**
-- **CI/CD Pipelines:** Automating testing and deployment workflows.
-- **Cloud Platforms:** Familiar with deploying applications to cloud services.
 
 ## 📚 Learning & Growth
 
