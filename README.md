@@ -10,7 +10,7 @@
 
 🔹 Experienced in publishing apps to **Play Store & App Store**.
 
-🔹 Proficient in **RESTful APIs, MySQL, and PostgreSQL**.
+🔹 Proficient in **RESTful APIs, MySQL, MongoDB and PostgreSQL**.
 
 🔹 **Currently Exploring:** **React.js** for modern web development.
 
