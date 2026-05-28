@@ -24,7 +24,8 @@
 
 **Tools & Databases**  
 - Git  
-- PostgreSQL  
+- PostgreSQL
+- MySQL  
 
 ---
 
