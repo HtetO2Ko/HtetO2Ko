@@ -1,37 +1,34 @@
 # 👋 Hi, I'm Htet Oo Ko
 
-🚀 Passionate and results-driven **Software Developer** with over 5 years of experience in building full-featured **mobile and web applications**. Skilled in creating dynamic user interfaces, managing business logic, and delivering impactful solutions.  
+🚀 **Full-Stack Software Developer** with 5+ years of experience specializing in building scalable mobile applications and robust backend architectures. Proficient in **Flutter, Node.js, and TypeScript**, with a proven track record of designing real-time transactional systems and deploying cloud-native solutions.
 
 ---
 
 ## 🧑‍💻 About Me
 - 🌍 Based in Mandalay, Myanmar  
+- 📞 Phone: [+95 9 764 245 600](tel:+959764245600)
 - 📧 Email: [hteto2ko.dev@gmail.com](mailto:hteto2ko.dev@gmail.com)  
-- 💡 Focused on **Flutter, React, and Node.js**  
-- 🌱 Always learning and exploring new technologies  
+- 💼 LinkedIn: [linkedin.com/in/htet-oo-ko](https://www.linkedin.com/in/htet-oo-ko/)
 
 ---
 
-## ⚡ Skills
+## ⚡ Technical Skills
 
 **Languages**  
-- Dart, JavaScript, TypeScript  
+- TypeScript, JavaScript, Dart
 
 **Frameworks & Libraries**  
-- Flutter    
-- React  
-- Node.js  
+- **Frontend/Mobile:** Flutter, Angular, React  
+- **Backend:** Node.js, Express
 
-**Tools & Databases**  
-- Git  
-- PostgreSQL
-- MySQL  
+**Cloud Services & Databases**  
+- **Cloud:** DigitalOcean (Droplets, Spaces)  
+- **Databases:** PostgreSQL, MySQL, MongoDB  
+- **DevOps & Infrastructure:** PM2, Ubuntu, Git, GitLab CI/CD
 
----
-
-## 📌 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/htet-oo-ko/)
-- ✉️ [Email Me](mailto:hteto2ko.dev@gmail.com)  
+**Tools**  
+- Postman, Figma, NPM, Bun
 
 ---
-⭐️ *"Code with purpose. Build with passion."*  
+
+⭐️ *"Code with purpose. Build with passion."*
