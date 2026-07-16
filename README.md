@@ -1,34 +1,80 @@
 # 👋 Hi, I'm Htet Oo Ko
 
-🚀 **Full-Stack Software Developer** with 5+ years of experience specializing in building scalable mobile applications and robust backend architectures. Proficient in **Flutter, Node.js, and TypeScript**, with a proven track record of designing real-time transactional systems and deploying cloud-native solutions.
+🚀 Full-Stack Software Developer with **5+ years of experience** building scalable mobile, web, and backend applications. I specialize in **Flutter, Node.js, TypeScript, and Clean Architecture**, creating enterprise software that is reliable, maintainable, and scalable.
+
+I enjoy solving real-world problems by building high-performance applications, designing RESTful APIs, and deploying cloud-native systems.
 
 ---
 
 ## 🧑‍💻 About Me
-- 🌍 Based in Mandalay, Myanmar  
-- 📞 Phone: [+95 9 764 245 600](tel:+959764245600)
-- 📧 Email: [hteto2ko.dev@gmail.com](mailto:hteto2ko.dev@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/htet-oo-ko](https://www.linkedin.com/in/htet-oo-ko/)
+
+- 🌍 Based in Mandalay, Myanmar
+- 💼 Full-Stack Software Developer
+- 📧 Email: **hteto2ko.dev@gmail.com**
+- 📞 Phone: **+95 9 764 245 600**
+- 💼 LinkedIn: https://www.linkedin.com/in/htet-oo-ko/
+- 🐙 GitHub: https://github.com/HtetO2Ko
 
 ---
 
-## ⚡ Technical Skills
+## 🚀 Tech Stack
 
-**Languages**  
-- TypeScript, JavaScript, Dart
+### Languages
+- TypeScript
+- JavaScript
+- Dart
 
-**Frameworks & Libraries**  
-- **Frontend/Mobile:** Flutter, Angular, React  
-- **Backend:** Node.js, Express
+### Mobile & Frontend
+- Flutter
+- Angular
+- Provider
+- BLoC
 
-**Cloud Services & Databases**  
-- **Cloud:** DigitalOcean (Droplets, Spaces)  
-- **Databases:** PostgreSQL, MySQL, MongoDB  
-- **DevOps & Infrastructure:** PM2, Ubuntu, Git, GitLab CI/CD
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+- Socket.IO
 
-**Tools**  
-- Postman, Figma, NPM, Bun
+### Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- Prisma ORM
+
+### DevOps & Cloud
+- GitHub Actions
+- Nginx
+- PM2
+- DigitalOcean (Droplets & Spaces)
+- Git
+
+### Tools
+- Postman
+- Figma
+- NPM
+- Bun
 
 ---
 
-⭐️ *"Code with purpose. Build with passion."*
+# 📈 Highlights
+
+- ✅ 5+ Years Professional Experience
+- 🚀 50+ REST APIs Developed
+- 📱 8,000+ Production App Downloads
+- 📊 Analytics Platform Processing Millions of Records
+- ☁️ CI/CD & Cloud Deployment
+- 🏛️ Clean Architecture
+- 🔄 Real-time Applications using Socket.IO
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/htet-oo-ko
+- Email: hteto2ko.dev@gmail.com
+
+---
+
+⭐ **"Code with purpose. Build scalable solutions. Never stop learning."**
