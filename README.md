@@ -1,80 +1,53 @@
 # 👋 Hi, I'm Htet Oo Ko
 
-🚀 Full-Stack Software Developer with **5+ years of experience** building scalable mobile, web, and backend applications. I specialize in **Flutter, Node.js, TypeScript, and Clean Architecture**, creating enterprise software that is reliable, maintainable, and scalable.
+🚀 **Software Developer** with **5+ years of experience** architecting cross-platform **Flutter** applications and scalable **Node.js/PostgreSQL/MySQL** backends. Proven track record as a **Software Team Lead** migrating legacy codebases, building high-throughput REST APIs, and scaling data pipelines for production systems.
 
-I enjoy solving real-world problems by building high-performance applications, designing RESTful APIs, and deploying cloud-native systems.
+I specialize in constructing pixel-accurate user interfaces, engineering sub-second latency APIs, and automating deployment workflows.
+
+---
+
+## ⚡ Currently Focus & Learning
+
+- 🔭 **Working on:** High-performance data synchronization pipelines and microservices.
+- 🌱 **Currently Learning:** Deepening **React** for advanced frontend web architectures.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🌍 Based in Mandalay, Myanmar
-- 💼 Full-Stack Software Developer
-- 📧 Email: **hteto2ko.dev@gmail.com**
-- 📞 Phone: **+95 9 764 245 600**
-- 💼 LinkedIn: https://www.linkedin.com/in/htet-oo-ko/
-- 🐙 GitHub: https://github.com/HtetO2Ko
+- 🌍 **Location:** Mandalay, Myanmar
+- 💼 **Status:** Freelance Software Developer (Remote)
+- 📧 **Email:** hteto2ko.dev@gmail.com
+- 📞 **Phone:** +95 944 36 78786
+- 💼 **LinkedIn:** [linkedin.com/in/htet-oo-ko](https://linkedin.com/in/htet-oo-ko/)
 
 ---
 
 ## 🚀 Tech Stack
 
 ### Languages
-- TypeScript
-- JavaScript
-- Dart
+- Dart | TypeScript | JavaScript | SQL
 
-### Mobile & Frontend
-- Flutter
-- Angular
-- Provider
-- BLoC
+### Frontend & Mobile
+- **Mobile:** Flutter (BLoC, Provider)
+- **Web:** React *(Currently Learning)*, Responsive UI Architecture, Figma Design Conversion
 
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-- Socket.IO
+### Backend & APIs
+- Node.js | Express.js | RESTful API Design | Backend Data Synchronization | Microservices Architecture
 
-### Databases
-- PostgreSQL
-- MySQL
-- MongoDB
-- Prisma ORM
+### Databases & ORM
+- PostgreSQL | MySQL | Prisma ORM | Database Design & Optimization
 
-### DevOps & Cloud
-- GitHub Actions
-- Nginx
-- PM2
-- DigitalOcean (Droplets & Spaces)
-- Git
-
-### Tools
-- Postman
-- Figma
-- NPM
-- Bun
-
----
-
-# 📈 Highlights
-
-- ✅ 5+ Years Professional Experience
-- 🚀 50+ REST APIs Developed
-- 📱 8,000+ Production App Downloads
-- 📊 Analytics Platform Processing Millions of Records
-- ☁️ CI/CD & Cloud Deployment
-- 🏛️ Clean Architecture
-- 🔄 Real-time Applications using Socket.IO
+### DevOps, Tools & Practices
+- Git | GitHub Actions | PM2 | Location/Maps Services Integration | SDLC
 
 ---
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/htet-oo-ko
-- Email: hteto2ko.dev@gmail.com
+- 💼 **LinkedIn:** [Htet Oo Ko](https://linkedin.com/in/htet-oo-ko)
+- 📧 **Email:** [hteto2ko.dev@gmail.com](mailto:hteto2ko.dev@gmail.com)
 
 ---
 
-⭐ **"Code with purpose. Build scalable solutions. Never stop learning."**
+⭐ *"Code with purpose. Build scalable solutions. Never stop learning."*
