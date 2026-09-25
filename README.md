@@ -2,7 +2,7 @@
 
 ### Software Engineer
 
-Software Engineer with **5+ years of experience** in mobile and backend development, specializing in **Flutter, Node.js, and Express.js**. Experienced in building scalable backend systems, modernizing legacy mobile applications, developing offline-first solutions, implementing data synchronization, and automating CI/CD pipelines.
+Software Engineer with **5+ years of experience** in mobile and backend development, specializing in **Flutter, Node.js, and Express.js**. Experienced in building scalable backend systems, modernizing legacy mobile applications, developing offline-first solutions, implementing data synchronization, and automating CI/CD pipelines. Currently learning React.js to expand my full-stack development skills and build modern web applications.
 
 ### Connect with Me
 
