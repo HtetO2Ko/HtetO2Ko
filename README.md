@@ -6,10 +6,10 @@ Software Engineer with **5+ years of experience** in mobile and backend developm
 
 ### Connect with Me
 
-<a href="https://linkedin.com/in/htet-oo-ko/">
+<a href="https://linkedin.com/in/htet-oo-ko/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.icons8.com/color/48/linkedin.png" width="32" alt="LinkedIn">
 </a>
 &nbsp;&nbsp;
-<a href="mailto:hteto2ko.dev@gmail.com">
+<a href="mailto:hteto2ko.dev@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.icons8.com/color/48/gmail-new.png" width="32" alt="Email">
 </a>
